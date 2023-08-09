@@ -21,7 +21,7 @@ Consider the following tree
 
 <img src="https://github.com/mrsac7/placement-resources/blob/main/Swiggy/tr.png" width="500">
 
-The optimal way to balance the above tree is to add $2$ stones to node $'3'$, $1$ stones to node $'2'$, and $4$ stones to node $'1'$. After doing so, we will get a $\textbf{balancedTree}$, and the minimum number of stones required to do it $2 + 1 + 4 = 7$.
+The optimal way to balance the above tree is to add $2$ stones to node $'3'$, $1$ stones to node $'2'$, and $3$ stones to node $'1'$. After doing so, we will get a $\textbf{balancedTree}$, and the minimum number of stones required to do it $2 + 1 + 3 = 6$.
 
 ### Function Description
 
